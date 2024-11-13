@@ -2,6 +2,12 @@
 
 TenantManagement system provides a platform to manage your tenants details/payments/complaints in a one place.
 
+You can add your rental property in listing with pictures, rent/room or rent/house, add tenents manually or bulk by csv file, get authorize payment every month without any inconvenience. 
+
+As a Property management you have ability to send announcement from the system and once your tenent read announcement you can choose to get notify. 
+
+Poweful dashboard to keep your property rented all time and get notify when to renew lease for all tenents.
+
 
 ## Screenshot
 
